@@ -173,7 +173,7 @@ prettytable==3.3.0; python_version >= "3.7" \
 progressbar2==4.0.0; python_full_version >= "3.7.0" and python_version >= "3.8" \
     --hash=sha256:2562ba3e554433f08e81fb7b786208b19de135f3ca1c5da1787d9b05558e6247 \
     --hash=sha256:14d3165a1781d053ffaa117daf27cc706128d2ec1d2977fdb05b6bb079888013
-protobuf==4.21.4; python_version >= "3.8"
+protobuf==4.21.6; python_version >= "3.8"
 psutil==5.9.1; python_version >= "3.8" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.8" \
     --hash=sha256:799759d809c31aab5fe4579e50addf84565e71c1dc9f1c31258f159ff70d3f87 \
     --hash=sha256:9272167b5f5fbfe16945be3db475b3ce8d792386907e673a209da686176552af \
