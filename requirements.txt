@@ -109,9 +109,9 @@ future==0.18.2; python_full_version >= "3.6.0" and python_version >= "3.8" \
 gitdb==4.0.9; python_version >= "3.8" \
     --hash=sha256:8033ad4e853066ba6ca92050b9df2f89301b8fc8bf7e9324d412a63f8bf1a8fd \
     --hash=sha256:bac2fd45c0a1c9cf619e63a90d62bdc63892ef92387424b855792a6cabe789aa
-gitpython==3.1.27; python_version >= "3.8" \
-    --hash=sha256:5b68b000463593e05ff2b261acff0ff0972df8ab1b70d3cdbd41b546c8b8fc3d \
-    --hash=sha256:1c885ce809e8ba2d88a29befeb385fcea06338d3640712b59ca623c220bb5704
+gitpython==3.1.32; python_version >= "3.8" \
+    --hash=sha256:8d9b8cb1e80b9735e8717c9362079d3ce4c6e5ddeebedd0361b228c3a67a62f6 \
+    --hash=sha256:e3d59b1c2c6ebb9dfa7a184daf3b6dd4914237e7488a1730a6d8f6f5d0b4187f
 itanium-demangler==1.0; python_version >= "3.8" \
     --hash=sha256:bca0fae4cb0ad582a3c7ede97d66b325d13445fdf87c28947233d8559430967c
 jinja2==3.1.2; python_version >= "3.7"
