@@ -104,8 +104,8 @@ dpkt==1.9.7.2; python_version >= "3.8" \
     --hash=sha256:d7e9ae552d0c44f339b7ca4db728c7202c32cc718cef12dbb8703539b840bb78 \
     --hash=sha256:80f977667ebbad2b5c4f7b7f45ee8bea6622fb71723f68a9a8fe6274520c853b
 fonttools==4.34.4; python_version >= "3.7"
-future==0.18.2; python_full_version >= "3.6.0" and python_version >= "3.8" \
-    --hash=sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d
+future==0.18.3; python_full_version >= "3.6.0" and python_version >= "3.8" \
+    --hash=sha256:34a17436ed1e96697a86f9de3d15a3b0be01d8bc8de9c1dffd59fb8234ed5307
 gitdb==4.0.9; python_version >= "3.8" \
     --hash=sha256:8033ad4e853066ba6ca92050b9df2f89301b8fc8bf7e9324d412a63f8bf1a8fd \
     --hash=sha256:bac2fd45c0a1c9cf619e63a90d62bdc63892ef92387424b855792a6cabe789aa
