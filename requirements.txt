@@ -160,7 +160,7 @@ packaging==21.3; python_version >= "3.7" \
 pandas==1.4.3; python_version >= "3.8"
 pefile==2022.5.30; python_full_version >= "3.6.0" and python_version >= "3.8" \
     --hash=sha256:a5488a3dd1fd021ce33f969780b88fe0f7eebb76eb20996d7318f307612a045b
-pillow==9.2.0; python_version >= "3.7"
+pillow==10.0.1; python_version >= "3.7"
 plumbum==1.7.2; python_version >= "3.8" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.8" \
     --hash=sha256:0bbf431e31da988405de2fb36c3226f09c0c9cdf69c8480f8997f4b94b7370a1 \
     --hash=sha256:0d1bf908076bbd0484d16412479cb97d6843069ee19f99e267e11dd980040523
